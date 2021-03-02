@@ -4,10 +4,8 @@ channels:
 dependencies:
   - numpy
   - pandas
-  - psutil
-  - toolz
+  - sklearn
+  - seaborn
   - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
+  - os
+ 
