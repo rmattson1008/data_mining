@@ -7,4 +7,5 @@ dependencies:
   - scikit-learn
   - seaborn
   - matplotlib
+  - nltk
  
